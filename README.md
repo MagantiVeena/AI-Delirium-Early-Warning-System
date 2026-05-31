@@ -28,7 +28,7 @@ early — before symptoms appear — so doctors can take preventive action in ti
 
 ## 📸 Output
 ![Prediction Output](output.png)
-![Model Accuracy](accuracy.png)
+![Model Accuracy](Accuracy.png)
 
 ## ⚙️ How to Run
 1. Clone the repository
